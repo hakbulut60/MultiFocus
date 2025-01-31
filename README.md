@@ -17,6 +17,12 @@ Lytro dataset used for experiments (five pairs of multi-focus images).
 This implementation uses the Lytro dataset, which consists of pairs of multi-focus images. You can download the dataset from the following link:
 
 Lytro Dataset Download (https://www.researchgate.net/publication/291522937_Lytro_Multi-focus_Image_Dataset)
+
+# Requirements
+Before running the provided code, ensure that you have the following prerequisites:
+
+MATLAB R2016b or later is recommended.
+
 # Results
 The performance of the proposed method has been evaluated using objective metrics:
 
