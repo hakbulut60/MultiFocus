@@ -1,6 +1,6 @@
 # Meta-heuristic Optimization for Optimal Block Size in Multi-focus Image Fusion: A Comprehensive Comparative Study
 # Citation
-Harun AKBULUT, Emre BENDES
+Harun AKBULUT
 
 Journal: The Visual Computer
 
